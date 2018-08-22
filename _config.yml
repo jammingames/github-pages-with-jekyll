@@ -1,15 +1,26 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Benjamin Langerak | Interactive Media Development
+author: Benjamin Langerak
+email: benjamin.j.langerak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Benjamin Langerak creates interactive media across all platforms using Unity 3D
+  
+  He has developed apps, games, experimental interactions,
+  data visualization tools, and interactive art installations 
+  for mobile devices, desktops, large touchscreen walls, 
+  as well as VR and AR headsets including hololens and HTC Vive
+  
+  He has a passion for experimentation in gameplay and creating
+  unique, artistic experiences that play with synesthesia and
+  engage multiple senses.
+  
+  He has published work to Google Play, Apple App Store, Steam,
+  Universal Windows Platform, as well as distributing Enterprise
+  apps directly to clients via continuous integration and web hosting
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @jammingames
+github_username:  jammingames
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: minima
