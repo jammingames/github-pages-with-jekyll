@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Benjamin Langerak, Unity 3D Developer
 
-I'm glad you are here. I plan to talk about ...
+## Released Projects
